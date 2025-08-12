@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "kywark",
+    "is_private": false,
+    "title": "Example Sensitive Audio Lesson: John Beecher, McComb \"Criminal Syndicalism\" Case",
+    "description": "This project, creadted by Bethany Radcliff and Kylie Warkentin with AudiAnnotate, is an example asynchronous classroom lesson informed by AudiAnnotate’s “An Introduction to Annotating and Presenting Sensitive Audio Using AudiAnnotate” lesson, created by Bethany Radcliff and Kylie Warkentin. Students will work with the “‘Criminal Syndicalism’ Case, McComb, Mississippi (Side 1)” recording from the John Beecher Sound Recordings Collection at the University of Texas’s Harry Ransom Center throughout the course of the lesson.",
+    "language": "en",
+    "slug": "beecher-syndicalism-lesson",
+    "creator": "kywark",
+    "authors": "Bethany Radcliff & Kylie Warkentin",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-08-12T01:34:12.904Z",
+    "updated_at": "2025-08-12T01:34:12.904Z"
   }
 }
