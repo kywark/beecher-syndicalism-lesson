@@ -1,0 +1,47 @@
+{
+  "audiovisual_files": {
+    "db8b7e91-2709-4fbc-9019-6e309a9b4788": {
+      "label": "Syndicalism Case",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3",
+      "duration": 1005,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recording Description:",
+          "bold": true
+        },
+        {
+          "text": " This recording was recorded October 19, 1964 by John Beecher and his wife, Barbara. The recording begins with John Beecher and members of the Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white arrested member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were given limited interaction with their children, and how officers made visits a challenge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Description of Clip Used in Lesson:",
+          "bold": true
+        },
+        {
+          "text": " The clip we will discuss in class is 14:07-15:37. In this portion of the recording, Beecher asks the students if they had recreational privileges while in jail, to which the students reply they could not even leave the cell. Beecher asks about food given to them in prison, which the students say was often cold pork and beans from the can, and that they were denied coffee, and given a small breakfast. The students also discuss how the guards/officers were dismissive of their singing and would threaten to drag their mattresses out and make the students sleep on the concrete if they continued sleeping."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "John Beecher \"Criminal Syndicalism\" case, McComb, Mississippi Audio",
+  "rights_statement": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "created_at": "2025-08-12T03:12:51.302Z",
+  "created_by": "kywark",
+  "updated_at": "2025-08-12T03:12:51.302Z",
+  "updated_by": "kywark"
+}
